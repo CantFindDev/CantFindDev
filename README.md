@@ -1,4 +1,4 @@
-<h2 align="left">I'm just a casual game dev named CantFind</h2>
+<h2 align="left">Just a casual game dev student</h2>
 
 ###
 
