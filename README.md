@@ -1,19 +1,7 @@
 <h1 align="center">Just a casual game dev student</h1>
 <p align="center">Probs developing</p>
 
-###
-
-<img align="right" height="245" src="https://i.imgur.com/D2devaX.png"  />
-
-###
-
-<img height="155" align="left" src="https://raw.githubusercontent.com/CantFindDev/CantFindDev/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="right">
+<div align="center">
     <a href="https://www.youtube.com/@TheRealCantFind" target="_blank"  style="text-decoration:none; outline:none; border:none;">
          <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="25" alt="youtube logo"  />
     </a>
@@ -27,6 +15,10 @@
 
 ###
 
+<img align="left" src="https://raw.githubusercontent.com/CantFindDev/CantFindDev/output/snake.svg" alt="Snake animation" />
+
+###
+<br clear="both">
 <table align="center" border="0">
   <tr>
     <td width="500" valign="top">
