@@ -1,4 +1,5 @@
 <h1 align="center">Just a casual game dev student</h1>
+<p align="center">Probs developing</p>
 
 ###
 
@@ -6,7 +7,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/CantFindDev/CantFindDev/output/snake.svg" alt="Snake animation" />
+<img height="155" align="left" src="https://raw.githubusercontent.com/CantFindDev/CantFindDev/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -16,10 +17,15 @@
     <a href="https://www.youtube.com/@TheRealCantFind" target="_blank"  style="text-decoration:none; outline:none; border:none;">
          <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="25" alt="youtube logo"  />
     </a>
+     <a href="" target="_blank"  style="text-decoration:none; outline:none; border:none;">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
- 
+  </a>
+      <a href="" target="_blank"  style="text-decoration:none; outline:none; border:none;">
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="25" alt="twitch logo"  />
+            </a>
 </div>
+
+###
 
 <table align="center" border="0">
   <tr>
