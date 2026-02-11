@@ -5,10 +5,10 @@
     <a href="https://www.youtube.com/@TheRealCantFind" target="_blank"  style="text-decoration:none; outline:none; border:none;">
          <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="25" alt="youtube logo"  />
     </a>
-     <a href="" target="_blank"  style="text-decoration:none; outline:none; border:none;">
+     <a href="discord.gg/d9puKpHWjn" target="_blank"  style="text-decoration:none; outline:none; border:none;">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
   </a>
-      <a href="" target="_blank"  style="text-decoration:none; outline:none; border:none;">
+      <a href="https://www.twitch.tv/therealcantfind" target="_blank"  style="text-decoration:none; outline:none; border:none;">
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="25" alt="twitch logo"  />
             </a>
 </div>
