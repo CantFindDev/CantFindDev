@@ -1,5 +1,5 @@
 <h1 align="center">Just A Casual Game Developer</h1>
-<p align="center">Probably working on some multiplayer stuff</p>
+<p align="center">Probably working on some stuff</p>
 
 <p align="center">
   <a href="https://www.youtube.com/@TheRealCantFind" target="_blank" style="display:inline-block;">
